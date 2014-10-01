@@ -2,7 +2,14 @@
 	Developer: Matt Ross
 	Contact: matt [at] mattross [dot] io
 	Twitter: @amsross
+	Web: http://www.mattross.io/
 	From: Haddonfield, New Jersey, USA
+
+	Designer: Daniel Olsovsky
+	Contact: danielolsovsky [at ]gmail [dot] com
+	Twitter: @awelrespctedman
+	Web: http://awellrespectedman.com/
+	From: Philadelphia, Pennsylvania, USA
 
 /* SITE */
 	Language: English
